@@ -2,7 +2,7 @@
   "miniprogramRoot": "dist/",
   "projectname": "tianjiu-account-book",
   "description": "",
-  "appid": "wxea72eae9f52cfbca",
+  "appid": "weixinappid",
   "setting": {
     "urlCheck": false,
     "es6": false,
